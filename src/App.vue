@@ -3,6 +3,7 @@
 <div>
   <SideNav class="sideNav"/>
   <router-view></router-view>
+  <Footer />
 </div>
   
 </template>
@@ -10,6 +11,7 @@
 <script setup>
   import router from './router'
   import SideNav from './components/SideNav.vue'
+  import Footer from './components/Footer.vue'
 </script>
 
 <style scoped>

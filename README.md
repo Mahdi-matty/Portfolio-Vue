@@ -1,30 +1,21 @@
 # portfoliovue
 
-This template should help get you started developing with Vue 3 in Vite.
+Online portfolio using Vue3.
 
-## Recommended IDE Setup
+## Installation
 
-[VSCode](https://code.visualstudio.com/) + [Volar](https://marketplace.visualstudio.com/items?itemName=Vue.volar) (and disable Vetur).
+Since it's one page app with no back-end you just need to install router and fontawesome
 
-## Customize configuration
+## Contribution
 
-See [Vite Configuration Reference](https://vitejs.dev/config/).
+please visit the github repo at : https://github.com/Mahdi-matty/Portfolio-Vue.git
 
-## Project Setup
+## Deployed version
 
-```sh
-npm install
-```
+https://mahdivue.netlify.app
 
-### Compile and Hot-Reload for Development
+### Contact
 
-```sh
-npm run dev
-```
+mmiq69@gmail.com
 
-### Compile and Minify for Production
 
-```sh
-npm run build
-```
-"# Portfolio-Vue" 
